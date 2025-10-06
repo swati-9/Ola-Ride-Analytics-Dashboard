@@ -46,7 +46,7 @@ The dashboard helps analyze **OLA ride data** — total rides, successful bookin
 
 ## 🌐 Published Dashboard
 You can view the **live published dashboard** here:  
-[Ola Ride Analytics Dashboard](https://app.powerbi.com/view?r=YOUR_PUBLISH_LINK_HERE](https://app.powerbi.com/groups/me/reports/c45b27d1-ffaf-4415-94f0-c2c6ced4532b/550c057901ea31906a75?experience=power-bi))  
+[Ola Ride Analytics Dashboard]([https://app.powerbi.com/view?r=YOUR_PUBLISH_LINK_HERE](https://app.powerbi.com/groups/me/reports/c45b27d1-ffaf-4415-94f0-c2c6ced4532b/550c057901ea31906a75?experience=power-bi)](https://app.powerbi.com/groups/me/reports/c45b27d1-ffaf-4415-94f0-c2c6ced4532b/550c057901ea31906a75?experience=power-bi))  
 
 ## 👤 Author
 **Swati Priya**
